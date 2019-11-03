@@ -1,209 +1,203 @@
 ,id,year,make,model,trim1,trim2,make_model,train_count,valid_count,test_count
-0,04bd87f8f379,2014.0,Subaru,Forester,Forester,2.5i,Subaru_Forester,11,1,4
-1,0f3e6ca0af86,2014.0,Subaru,Forester,Forester,2.5i Premium,Subaru_Forester,10,4,2
-2,4bd70e6e6b4b,2015.0,Subaru,Forester,Forester,2.5i Premium,Subaru_Forester,10,3,3
-3,6e9874f85538,2015.0,Subaru,Forester,Forester,2.5i Premium,Subaru_Forester,8,2,6
-4,8074c30d1221,2014.0,Subaru,Forester,Forester,2.5i Touring,Subaru_Forester,8,6,2
-5,8e008275d042,2014.0,Subaru,Forester,Forester,2.5i,Subaru_Forester,13,2,1
-6,96af04be85e5,2015.0,Subaru,Forester,Forester,2.5i Premium,Subaru_Forester,6,4,6
-7,aa8e93733e40,2015.0,Subaru,Forester,Forester,2.0XT Touring W/  All Weather Pkg,Subaru_Forester,10,4,2
-8,d72df3f16bbe,2014.0,Subaru,Forester,Forester,2.5i Premium All Weather Pkg,Subaru_Forester,12,1,3
-9,ddbdc9f92591,2014.0,Subaru,Forester,Forester,2.5i Premium,Subaru_Forester,7,7,2
-10,f3586b06a6bc,2016.0,Subaru,Forester,Forester,2.5i Limited,Subaru_Forester,9,2,5
-11,f7ce5a508c4f,2013.0,Subaru,Forester,Forester,2.5X,Subaru_Forester,10,3,3
-12,0471204b1971,2014.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,7,6,3
-13,245f9c9eab8a,2016.0,Mitsubishi,Lancer,Lancer,GT,Mitsubishi_Lancer,12,1,3
-14,2cc8ac359692,2015.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,9,3,4
-15,40b599bf8021,2014.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,6,7,3
-16,6343156803f9,2015.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,9,4,3
-17,8ef61b19fc6b,2015.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,9,5,2
-18,924205432546,2015.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,9,3,4
-19,b2c7a67a809b,2016.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,11,1,4
-20,b43ae11c3ed1,2014.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,12,3,1
-21,cfcfceb2709f,2014.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,8,4,4
-22,e10eb22f3054,2014.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,10,2,4
-23,fdbe95520083,2014.0,Mitsubishi,Lancer,Lancer,ES,Mitsubishi_Lancer,11,3,2
-24,0493f0ce4a01,2014.0,MINI,Countryman,Countryman,Cooper S w/ Sport Pkg,MINI_Countryman,11,2,3
-25,0d1a9caf4350,2016.0,MINI,Countryman,Countryman,Cooper S,MINI_Countryman,11,1,4
-26,1e47e1231d8a,2014.0,MINI,Countryman,Countryman,Cooper S ALL4,MINI_Countryman,10,4,2
-27,3d33e3e3c89c,2014.0,MINI,Countryman,Countryman,Cooper S ALL4,MINI_Countryman,7,7,2
-28,73d82c85175b,2015.0,MINI,Countryman,Countryman,Cooper S ALL4,MINI_Countryman,11,3,2
-29,8e78c266b870,2014.0,MINI,Countryman,Countryman,Cooper,MINI_Countryman,8,2,6
-30,aafec7d06b29,2014.0,MINI,Countryman,Countryman,Cooper S ALL4,MINI_Countryman,10,2,4
-31,d6fe0bb72044,2013.0,MINI,Countryman,Countryman,Cooper S ALL4,MINI_Countryman,11,2,3
-32,ed73965e456e,2013.0,MINI,Countryman,Countryman,Cooper,MINI_Countryman,11,2,3
-33,f50769787a2d,2013.0,MINI,Countryman,Countryman,Cooper S,MINI_Countryman,11,1,4
-34,fefa0531e7b1,2014.0,MINI,Countryman,Countryman,Cooper S ALL4 w/Cold Weather Pkg,MINI_Countryman,11,5,0
-35,2204ad7b8a20,2012.0,Jeep,Wrangler,Wrangler,Sport,Jeep_Wrangler,12,3,1
-36,2bb507a4a97f,2014.0,Jeep,Wrangler,Wrangler,Rubicon,Jeep_Wrangler,7,0,9
-37,357b6a09b8d8,2013.0,Jeep,Wrangler,Wrangler,Sport,Jeep_Wrangler,6,5,5
-38,53e7c620f634,2012.0,Jeep,Wrangler,Wrangler,Sport w/ Towing Pkg,Jeep_Wrangler,4,3,9
-39,55c6ac11ecd1,2013.0,Jeep,Wrangler,Wrangler,Rubicon,Jeep_Wrangler,11,4,1
-40,66097a7f34e6,2014.0,Jeep,Wrangler,Wrangler,Rubicon X,Jeep_Wrangler,12,1,3
-41,a02fd11cc843,2014.0,Jeep,Wrangler,Wrangler,Rubicon,Jeep_Wrangler,8,4,4
-42,b8336997408f,2013.0,Jeep,Wrangler,Wrangler,Sport Towing Pkg,Jeep_Wrangler,9,3,4
-43,c5c5798222f4,2011.0,Jeep,Wrangler,Wrangler,Sport,Jeep_Wrangler,11,3,2
-44,fc9399fafb30,2014.0,Jeep,Wrangler,Wrangler,Freedom Edition,Jeep_Wrangler,7,4,5
-45,fcf850a61323,2013.0,Jeep,Wrangler,Wrangler,Sport,Jeep_Wrangler,12,2,2
-46,fcfd7f672e36,2013.0,Jeep,Wrangler,Wrangler,Sahara,Jeep_Wrangler,8,4,4
-47,fea835a895cf,2014.0,Jeep,Wrangler,Wrangler,Sport,Jeep_Wrangler,4,6,6
-48,015d98226195,2013.0,Toyota,Tacoma,Tacoma,PreRunner,Toyota_Tacoma,10,3,3
-49,0231a203dc2b,2016.0,Toyota,Tacoma,Tacoma,SR5 V6,Toyota_Tacoma,6,5,5
-50,0bdb8b1cba05,2016.0,Toyota,Tacoma,Tacoma,TRD Sport,Toyota_Tacoma,6,5,5
-51,2fb32edf53dd,2011.0,Toyota,Tacoma,Tacoma,Base V6 Towing Pkg,Toyota_Tacoma,8,5,3
-52,3915143c71a0,2016.0,Toyota,Tacoma,Tacoma,SR5 V6,Toyota_Tacoma,8,5,3
-53,46b8816a9836,2013.0,Toyota,Tacoma,Tacoma,V6 w/TRD Sport Pkg,Toyota_Tacoma,5,7,4
-54,537927d3d6a8,2012.0,Toyota,Tacoma,Tacoma,V6,Toyota_Tacoma,6,1,9
-55,551d818ec3ce,2015.0,Toyota,Tacoma,Tacoma,V6 w/SR5 Pkg,Toyota_Tacoma,7,6,3
-56,58d8c8588ce7,2011.0,Toyota,Tacoma,Tacoma,V6,Toyota_Tacoma,8,8,0
-57,92ff1f015411,2012.0,Toyota,Tacoma,Tacoma,PreRunner V6,Toyota_Tacoma,11,0,5
-58,94981a2640c2,2014.0,Toyota,Tacoma,Tacoma,V6,Toyota_Tacoma,10,1,5
-59,b28165ef63cd,2014.0,Toyota,Tacoma,Tacoma,V6 W/ Towing Pkg,Toyota_Tacoma,6,2,8
-60,c3a3cf8591d4,2012.0,Toyota,Tacoma,Tacoma,PreRunner V6,Toyota_Tacoma,9,3,4
-61,e4fc9edc5c7b,2010.0,Toyota,Tacoma,Tacoma,Base,Toyota_Tacoma,11,1,4
-62,159347bd6cd2,2013.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,10,6,0
-63,372419dbc265,2013.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,11,2,3
-64,3a2e36d7cd6a,2013.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,6,4,6
-65,3df59244b0b8,2013.0,Volkswagen,CC,CC,Sport,Volkswagen_CC,10,5,1
-66,4d8fab5bac89,2014.0,Volkswagen,CC,CC,Sport,Volkswagen_CC,7,7,2
-67,88d28103cda3,2014.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,8,4,4
-68,9add7d064d40,2014.0,Volkswagen,CC,CC,R-Line,Volkswagen_CC,13,1,2
-69,b66c26e01b3f,2013.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,10,3,3
-70,be0f52dbcf19,2013.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,10,4,2
-71,e1e9a6a589cb,2013.0,Volkswagen,CC,CC,Sport PZEV,Volkswagen_CC,13,0,3
-72,f7f3c5c3c7aa,2012.0,Volkswagen,CC,CC,Sport,Volkswagen_CC,10,1,5
-73,1727aa24a99b,2015.0,Audi,Q5,Q5,2.0T quattro Premium,Audi_Q5,5,4,7
-74,65051cfe0789,2014.0,Audi,Q5,Q5,2.0T quattro Premium,Audi_Q5,12,1,3
-75,68d293c20e0a,2015.0,Audi,Q5,Q5,2.0T quattro Premium Plus,Audi_Q5,14,0,2
-76,89e39c70acf0,2014.0,Audi,Q5,Q5,2.0T quattro Premium Plus,Audi_Q5,12,2,2
-77,9a31ec728211,2013.0,Audi,Q5,Q5,2.0T quattro Premium Plus,Audi_Q5,11,2,3
-78,9c3ad5995878,2013.0,Audi,Q5,Q5,2.0T quattro Premium,Audi_Q5,11,1,4
-79,b2fcaaa4d0d4,2014.0,Audi,Q5,Q5,3.0 quattro TDI Prestige,Audi_Q5,10,3,3
-80,c86b4dcd90f5,2014.0,Audi,Q5,Q5,3.0T quattro Prestige,Audi_Q5,8,4,4
-81,d0e1e76af411,2012.0,Audi,Q5,Q5,2.0T quattro Premium Plus,Audi_Q5,7,5,4
-82,d4079904fc83,2014.0,Audi,Q5,Q5,2.0T quattro Premium Plus,Audi_Q5,5,6,5
-83,f93a4878aedb,2014.0,Audi,Q5,Q5,2.0T quattro Premium Plus,Audi_Q5,11,2,3
-84,30e0fda8deeb,2015.0,Audi,A3,A3,2.0T quattro Premium,Audi_A3,10,6,0
-85,5ee6ce7e5db6,2015.0,Audi,A3,A3,2.0T quattro Premium Plus,Audi_A3,9,3,4
-86,6fbd22ce7275,2015.0,Audi,A3,A3,2.0T quattro Premium,Audi_A3,11,2,3
-87,766d06abbb29,2015.0,Audi,A3,A3,2.0T quattro Prestige Sport Pkg,Audi_A3,7,7,2
-88,7cb4454776b7,2015.0,Audi,A3,A3,2.0T quattro Premium Plus,Audi_A3,10,5,1
-89,9dfaeb835626,2016.0,Audi,A3,A3,2.0T quattro Premium Plus,Audi_A3,6,4,6
-90,ab38d376843a,2015.0,Audi,A3,A3,2.0T quattro Premium Plus,Audi_A3,11,3,2
-91,ac17fa7cb0a7,2016.0,Audi,A3,A3,2.0T quattro Premium,Audi_A3,12,3,1
-92,adde7e9bebb9,2015.0,Audi,A3,A3,2.0T quattro Premium Plus,Audi_A3,9,4,3
-93,c53e374fdd72,2015.0,Audi,A3,A3,2.0T quattro Premium,Audi_A3,9,3,4
-94,d47c65912778,2015.0,Audi,A3,A3,2.0T quattro Premium Plus,Audi_A3,12,2,2
-95,0ca342108368,2015.0,Mercedes-Benz,GLA,GLA,GLA 250 4MATIC,Mercedes-Benz_GLA,7,4,5
-96,24f0c97836fd,2015.0,Mercedes-Benz,GLA,GLA,GLA 250 4MATIC,Mercedes-Benz_GLA,10,4,2
-97,4e1303367c23,2015.0,Mercedes-Benz,GLA,GLA,GLA250,Mercedes-Benz_GLA,9,7,0
-98,5b36192f9471,2015.0,Mercedes-Benz,GLA,GLA,GLA250,Mercedes-Benz_GLA,9,5,2
-99,630bcc118624,2015.0,Mercedes-Benz,GLA,GLA,GLA250 4MATIC,Mercedes-Benz_GLA,12,2,2
-100,7e746a96c456,2015.0,Mercedes-Benz,GLA,GLA,GLA250,Mercedes-Benz_GLA,11,2,3
-101,9b8c086eff4b,2016.0,Mercedes-Benz,GLA,GLA,GLA 250 4MATIC,Mercedes-Benz_GLA,6,3,7
-102,c24077c3a0e0,2015.0,Mercedes-Benz,GLA,GLA,GLA 250,Mercedes-Benz_GLA,10,4,2
-103,d493fdbf4e9b,2015.0,Mercedes-Benz,GLA,GLA,GLA250 4MATIC,Mercedes-Benz_GLA,12,1,3
-104,d568ce1e48a2,2015.0,Mercedes-Benz,GLA,GLA,GLA250,Mercedes-Benz_GLA,9,5,2
-105,dd47eb7ac4ee,2016.0,Mercedes-Benz,GLA,GLA,GLA 250 4MATIC,Mercedes-Benz_GLA,10,2,4
-106,36860c885526,2014.0,Mercedes-Benz,GLK,GLK,GLK350 w/Premium Pkg,Mercedes-Benz_GLK,13,2,1
-107,3fca2dafc9fc,2014.0,Mercedes-Benz,GLK,GLK,GLK 350 4MATIC w/Premium Pkg,Mercedes-Benz_GLK,10,3,3
-108,419372549627,2013.0,Mercedes-Benz,GLK,GLK,GLK350 4MATIC,Mercedes-Benz_GLK,8,6,2
-109,4d07a478e267,2014.0,Mercedes-Benz,GLK,GLK,GLK350 4MATIC,Mercedes-Benz_GLK,9,6,1
-110,614472f70bcd,2014.0,Mercedes-Benz,GLK,GLK,GLK350 4MATIC,Mercedes-Benz_GLK,9,3,4
-111,7ec4581d0a0f,2014.0,Mercedes-Benz,GLK,GLK,GLK 350,Mercedes-Benz_GLK,9,2,5
-112,8d46502ea2cc,2013.0,Mercedes-Benz,GLK,GLK,GLK350 4MATIC,Mercedes-Benz_GLK,10,1,5
-113,a84f5e40e48d,2015.0,Mercedes-Benz,GLK,GLK,GLK350,Mercedes-Benz_GLK,9,3,4
-114,bb31a3e2b6ec,2013.0,Mercedes-Benz,GLK,GLK,GLK 350,Mercedes-Benz_GLK,11,4,1
-115,c1de98e11cd8,2014.0,Mercedes-Benz,GLK,GLK,GLK 350,Mercedes-Benz_GLK,9,4,3
-116,fb1b923dd978,2015.0,Mercedes-Benz,GLK,GLK,GLK 350 4MATIC w/ Premium 1 Pkg,Mercedes-Benz_GLK,8,6,2
-117,2b377d14a6f7,2013.0,BMW,X3,X3,xDrive28i,BMW_X3,12,3,1
-118,3d7a1030deeb,2016.0,BMW,X3,X3,xDrive28i,BMW_X3,8,6,2
-119,3fdce9d37478,2013.0,BMW,X3,X3,xDrive28i,BMW_X3,4,4,8
-120,4f7ecdb5142d,2012.0,BMW,X3,X3,xDrive35i,BMW_X3,11,0,5
-121,846faa0eb79f,2014.0,BMW,X3,X3,xDrive35i w/ Premium Pkg,BMW_X3,6,5,5
-122,89908c5dd553,2014.0,BMW,X3,X3,xDrive28i,BMW_X3,8,2,6
-123,a2962aeef47f,2015.0,BMW,X3,X3,sDrive28i,BMW_X3,10,4,2
-124,a56f923399ca,2014.0,BMW,X3,X3,xDrive28i w/Premium Pkg,BMW_X3,11,1,4
-125,afea6fd186d3,2013.0,BMW,X3,X3,xDrive28i,BMW_X3,8,4,4
-126,bde6e2f53ccd,2012.0,BMW,X3,X3,xDrive28i,BMW_X3,9,4,3
-127,e24ee4eccccf,2011.0,BMW,X3,X3,xDrive28i,BMW_X3,8,4,4
-128,f389f263eea1,2014.0,BMW,X3,X3,xDrive28i,BMW_X3,8,6,2
-129,1e68eba302f5,2013.0,Honda,Pilot,Pilot,EX-L,Honda_Pilot,12,2,2
-130,36a616a80cea,2014.0,Honda,Pilot,Pilot,EX,Honda_Pilot,12,3,1
-131,54ee69d7d5e5,2013.0,Honda,Pilot,Pilot,Touring,Honda_Pilot,8,3,5
-132,629f8de24454,2013.0,Honda,Pilot,Pilot,EX-L,Honda_Pilot,6,7,3
-133,7263fcbfae99,2014.0,Honda,Pilot,Pilot,LX,Honda_Pilot,11,4,1
-134,82d30a8001ee,2011.0,Honda,Pilot,Pilot,LX,Honda_Pilot,10,2,4
-135,846c39e6197d,2015.0,Honda,Pilot,Pilot,SE,Honda_Pilot,6,2,8
-136,8c9416066607,2013.0,Honda,Pilot,Pilot,EX-L,Honda_Pilot,13,0,3
-137,ba0542f7cfce,2016.0,Honda,Pilot,Pilot,Touring,Honda_Pilot,11,0,5
-138,d00b02fe2548,2013.0,Honda,Pilot,Pilot,LX,Honda_Pilot,9,3,4
-139,3296b42a1036,2014.0,Nissan,370Z,370Z,Coupe,Nissan_370Z,10,3,3
-140,51db01f69797,2014.0,Nissan,370Z,370Z,Base,Nissan_370Z,10,3,3
-141,5b65b2b575f2,2013.0,Nissan,370Z,370Z,Touring,Nissan_370Z,8,3,5
-142,6ba36af67cb0,2014.0,Nissan,370Z,370Z,Roadster,Nissan_370Z,9,3,4
-143,6ef47eadf7ea,2015.0,Nissan,370Z,370Z,Roadster Touring,Nissan_370Z,9,3,4
-144,788e1e49c027,2012.0,Nissan,370Z,370Z,Roadster Touring,Nissan_370Z,9,4,3
-145,b44091aa62e4,2016.0,Nissan,370Z,370Z,Sport,Nissan_370Z,11,2,3
-146,b4bcf224f867,2015.0,Nissan,370Z,370Z,Roadster Touring,Nissan_370Z,14,1,1
-147,c8c5e4499ea9,2015.0,Nissan,370Z,370Z,Sport,Nissan_370Z,9,4,3
-148,f45933c2069d,2012.0,Nissan,370Z,370Z,Roadster Touring,Nissan_370Z,9,2,5
-149,12cee71ab024,2014.0,Mitsubishi,Outlander,Outlander,GT W/ Towing Pkg,Mitsubishi_Outlander,10,2,4
-150,2d0e1b774464,2014.0,Mitsubishi,Outlander,Outlander,SE,Mitsubishi_Outlander,10,4,2
-151,31976481ac59,2014.0,Mitsubishi,Outlander,Outlander,SE,Mitsubishi_Outlander,10,5,1
-152,6b1fb8852b09,2015.0,Mitsubishi,Outlander,Outlander,GT,Mitsubishi_Outlander,6,2,8
-153,73319df1fc6c,2016.0,Mitsubishi,Outlander,Outlander,GT,Mitsubishi_Outlander,5,5,6
-154,74f1f434e214,2014.0,Mitsubishi,Outlander,Outlander,GT,Mitsubishi_Outlander,10,4,2
-155,8cdafb8ea2f6,2014.0,Mitsubishi,Outlander,Outlander,GT,Mitsubishi_Outlander,10,2,4
-156,de21c6090355,2014.0,Mitsubishi,Outlander,Outlander,SE,Mitsubishi_Outlander,8,5,3
-157,e6892bf10d31,2016.0,Mitsubishi,Outlander,Outlander,GT w/Touring Pkg,Mitsubishi_Outlander,10,3,3
-158,f8dc50bb832c,2014.0,Mitsubishi,Outlander,Outlander,ES,Mitsubishi_Outlander,11,1,4
-159,17a1f1ab0ac3,2014.0,Audi,A5,A5,2.0T quattro Premium,Audi_A5,8,3,5
-160,1c1a505c4e49,2014.0,Audi,A5,A5,2.0T quattro Premium Plus,Audi_A5,12,3,1
-161,3edf4f51b428,2013.0,Audi,A5,A5,2.0T quattro Premium Plus,Audi_A5,5,7,4
-162,4416c77aa458,2014.0,Audi,A5,A5,2.0T quattro Premium Plus,Audi_A5,6,5,5
-163,6a548b4d774e,2015.0,Audi,A5,A5,2.0T quattro Premium Plus,Audi_A5,10,2,4
-164,75bc924cc8c1,2014.0,Audi,A5,A5,2.0T quattro Premium Plus,Audi_A5,13,2,1
-165,c92229529657,2014.0,Audi,A5,A5,2.0T quattro Premium Plus,Audi_A5,7,5,4
-166,dbd00769aee2,2014.0,Audi,A5,A5,2.0T Premium Plus,Audi_A5,14,0,2
-167,f1f241571948,2010.0,Audi,A5,A5,2.0T quattro Prestige w/ Prestige Pkg,Audi_A5,12,1,3
-168,1a02b5de8e8d,2014.0,Subaru,Outback,Outback,2.5i,Subaru_Outback,11,1,4
-169,1d2814dbd013,2014.0,Subaru,Outback,Outback,2.5i Premium,Subaru_Outback,12,3,1
-170,4157dbb64e2f,2014.0,Subaru,Outback,Outback,2.5i Limited,Subaru_Outback,9,2,5
-171,459c9990f7aa,2016.0,Subaru,Outback,Outback,2.5i,Subaru_Outback,10,5,1
-172,98b497839908,2014.0,Subaru,Outback,Outback,2.5i,Subaru_Outback,10,4,2
-173,af80b15636e0,2011.0,Subaru,Outback,Outback,2.5i Premium,Subaru_Outback,13,0,3
-174,cab486976e0c,2013.0,Subaru,Outback,Outback,2.5i Limited,Subaru_Outback,9,3,4
-175,d897fc52ff78,2015.0,Subaru,Outback,Outback,2.5i Premium,Subaru_Outback,8,3,5
-176,00322b309335,2013.0,BMW,1 Series,1 Series,128i w/ Premium Pkg,BMW_1 Series,9,5,2
-177,0dc831fb95b1,2012.0,BMW,1 Series,1 Series,135i,BMW_1 Series,7,4,5
-178,2ea62c1beee7,2009.0,BMW,1 Series,1 Series,135i,BMW_1 Series,11,3,2
-179,5b1fa48bb5b1,2013.0,BMW,1 Series,1 Series,135i,BMW_1 Series,9,5,2
-180,6ff4bbcf5088,2012.0,BMW,1 Series,1 Series,135i,BMW_1 Series,8,4,4
-181,77fbf2af4072,2013.0,BMW,1 Series,1 Series,128i,BMW_1 Series,9,3,4
-182,99748e44dcc0,2012.0,BMW,1 Series,1 Series,128i,BMW_1 Series,10,3,3
-183,bf9932f7aca8,2013.0,BMW,1 Series,1 Series,128i,BMW_1 Series,8,2,6
-184,e4b6cce2ef0f,2013.0,BMW,1 Series,1 Series,128i,BMW_1 Series,10,3,3
-185,4002e9825e89,2014.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,10,4,2
-186,40383c0cd9c2,2015.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,13,1,2
-187,6edb8f61fa1c,2014.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,9,4,3
-188,7e8db926a7a5,2015.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,14,0,2
-189,b4e21219cc10,2015.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,8,5,3
-190,d3a717239916,2014.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,10,5,1
-191,d5129c806ea5,2015.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,7,7,2
-192,decb221047cd,2014.0,Nissan,Rogue Select,Rogue Select,S,Nissan_Rogue Select,8,5,3
-193,13f7992cb83b,2014.0,Nissan,Quest,Quest,3.5 SV,Nissan_Quest,13,0,3
-194,1b91bcca99a3,2015.0,Nissan,Quest,Quest,3.5 SV,Nissan_Quest,10,2,4
-195,1db0f9a8ccab,2014.0,Nissan,Quest,Quest,3.5 SV,Nissan_Quest,10,3,3
-196,252c6ab0d70c,2015.0,Nissan,Quest,Quest,3.5 SV,Nissan_Quest,12,3,1
-197,5ec8a0260e30,2014.0,Nissan,Quest,Quest,3.5 SV,Nissan_Quest,8,4,4
-198,ad2f37efea5a,2013.0,Nissan,Quest,Quest,3.5 S,Nissan_Quest,15,0,1
-199,ae3ee849ed63,2013.0,Nissan,Quest,Quest,3.5 S,Nissan_Quest,10,2,4
-200,3364e55bac98,2015.0,BMW,4 Series,4 Series,428i,BMW_4 Series,9,4,3
-201,5fb012d30fd9,2014.0,BMW,4 Series,4 Series,435i xDrive,BMW_4 Series,12,2,2
-202,6bc6061bd22e,2014.0,BMW,4 Series,4 Series,435i w/ M Sport Pkg,BMW_4 Series,10,4,2
-203,7e097d195756,2014.0,BMW,4 Series,4 Series,435i,BMW_4 Series,6,6,4
-204,8d5423cb763c,2016.0,BMW,4 Series,4 Series,428i Gran Coupe w/Driver Assistance Pkg,BMW_4 Series,9,4,3
-205,b33123d1fd29,2014.0,BMW,4 Series,4 Series,428i w/  Sport line package,BMW_4 Series,10,3,3
-206,c8e4fad8359b,2014.0,BMW,4 Series,4 Series,428i,BMW_4 Series,8,4,4
-207,d870445bd412,2014.0,BMW,4 Series,4 Series,428i xDrive,BMW_4 Series,11,4,1
+0,0493f0ce4a01,2014.0,MINI,countryman,Countryman,Cooper S w/ Sport Pkg,MINI-countryman,11,2,3
+1,0d1a9caf4350,2016.0,MINI,countryman,Countryman,Cooper S,MINI-countryman,11,1,4
+2,1e47e1231d8a,2014.0,MINI,countryman,Countryman,Cooper S ALL4,MINI-countryman,10,4,2
+3,3d33e3e3c89c,2014.0,MINI,countryman,Countryman,Cooper S ALL4,MINI-countryman,7,7,2
+4,73d82c85175b,2015.0,MINI,countryman,Countryman,Cooper S ALL4,MINI-countryman,11,3,2
+5,8e78c266b870,2014.0,MINI,countryman,Countryman,Cooper,MINI-countryman,8,2,6
+6,aafec7d06b29,2014.0,MINI,countryman,Countryman,Cooper S ALL4,MINI-countryman,10,2,4
+7,d6fe0bb72044,2013.0,MINI,countryman,Countryman,Cooper S ALL4,MINI-countryman,11,2,3
+8,ed73965e456e,2013.0,MINI,countryman,Countryman,Cooper,MINI-countryman,11,2,3
+9,f50769787a2d,2013.0,MINI,countryman,Countryman,Cooper S,MINI-countryman,11,1,4
+10,fefa0531e7b1,2014.0,MINI,countryman,Countryman,Cooper S ALL4 w/Cold Weather Pkg,MINI-countryman,11,5,0
+11,2204ad7b8a20,2012.0,Jeep,wrangler,Wrangler,Sport,Jeep-wrangler,12,3,1
+12,2bb507a4a97f,2014.0,Jeep,wrangler,Wrangler,Rubicon,Jeep-wrangler,7,0,9
+13,357b6a09b8d8,2013.0,Jeep,wrangler,Wrangler,Sport,Jeep-wrangler,6,5,5
+14,53e7c620f634,2012.0,Jeep,wrangler,Wrangler,Sport w/ Towing Pkg,Jeep-wrangler,4,3,9
+15,55c6ac11ecd1,2013.0,Jeep,wrangler,Wrangler,Rubicon,Jeep-wrangler,11,4,1
+16,66097a7f34e6,2014.0,Jeep,wrangler,Wrangler,Rubicon X,Jeep-wrangler,12,1,3
+17,a02fd11cc843,2014.0,Jeep,wrangler,Wrangler,Rubicon,Jeep-wrangler,8,4,4
+18,b8336997408f,2013.0,Jeep,wrangler,Wrangler,Sport Towing Pkg,Jeep-wrangler,9,3,4
+19,c5c5798222f4,2011.0,Jeep,wrangler,Wrangler,Sport,Jeep-wrangler,11,3,2
+20,fc9399fafb30,2014.0,Jeep,wrangler,Wrangler,Freedom Edition,Jeep-wrangler,7,4,5
+21,fcf850a61323,2013.0,Jeep,wrangler,Wrangler,Sport,Jeep-wrangler,12,2,2
+22,fcfd7f672e36,2013.0,Jeep,wrangler,Wrangler,Sahara,Jeep-wrangler,8,4,4
+23,fea835a895cf,2014.0,Jeep,wrangler,Wrangler,Sport,Jeep-wrangler,4,6,6
+24,015d98226195,2013.0,Toyota,tacoma,Tacoma,PreRunner,Toyota-tacoma,10,3,3
+25,0231a203dc2b,2016.0,Toyota,tacoma,Tacoma,SR5 V6,Toyota-tacoma,6,5,5
+26,0bdb8b1cba05,2016.0,Toyota,tacoma,Tacoma,TRD Sport,Toyota-tacoma,6,5,5
+27,2fb32edf53dd,2011.0,Toyota,tacoma,Tacoma,Base V6 Towing Pkg,Toyota-tacoma,8,5,3
+28,3915143c71a0,2016.0,Toyota,tacoma,Tacoma,SR5 V6,Toyota-tacoma,8,5,3
+29,46b8816a9836,2013.0,Toyota,tacoma,Tacoma,V6 w/TRD Sport Pkg,Toyota-tacoma,5,7,4
+30,537927d3d6a8,2012.0,Toyota,tacoma,Tacoma,V6,Toyota-tacoma,6,1,9
+31,551d818ec3ce,2015.0,Toyota,tacoma,Tacoma,V6 w/SR5 Pkg,Toyota-tacoma,7,6,3
+32,58d8c8588ce7,2011.0,Toyota,tacoma,Tacoma,V6,Toyota-tacoma,8,8,0
+33,92ff1f015411,2012.0,Toyota,tacoma,Tacoma,PreRunner V6,Toyota-tacoma,11,0,5
+34,94981a2640c2,2014.0,Toyota,tacoma,Tacoma,V6,Toyota-tacoma,10,1,5
+35,b28165ef63cd,2014.0,Toyota,tacoma,Tacoma,V6 W/ Towing Pkg,Toyota-tacoma,6,2,8
+36,c3a3cf8591d4,2012.0,Toyota,tacoma,Tacoma,PreRunner V6,Toyota-tacoma,9,3,4
+37,e4fc9edc5c7b,2010.0,Toyota,tacoma,Tacoma,Base,Toyota-tacoma,11,1,4
+38,159347bd6cd2,2013.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,10,6,0
+39,372419dbc265,2013.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,11,2,3
+40,3a2e36d7cd6a,2013.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,6,4,6
+41,3df59244b0b8,2013.0,Volkswagen,cc,CC,Sport,Volkswagen-cc,10,5,1
+42,4d8fab5bac89,2014.0,Volkswagen,cc,CC,Sport,Volkswagen-cc,7,7,2
+43,88d28103cda3,2014.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,8,4,4
+44,9add7d064d40,2014.0,Volkswagen,cc,CC,R-Line,Volkswagen-cc,13,1,2
+45,b66c26e01b3f,2013.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,10,3,3
+46,be0f52dbcf19,2013.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,10,4,2
+47,e1e9a6a589cb,2013.0,Volkswagen,cc,CC,Sport PZEV,Volkswagen-cc,13,0,3
+48,f7f3c5c3c7aa,2012.0,Volkswagen,cc,CC,Sport,Volkswagen-cc,10,1,5
+49,30e0fda8deeb,2015.0,Audi,a3,A3,2.0T quattro Premium,Audi-a3,10,6,0
+50,5ee6ce7e5db6,2015.0,Audi,a3,A3,2.0T quattro Premium Plus,Audi-a3,9,3,4
+51,6fbd22ce7275,2015.0,Audi,a3,A3,2.0T quattro Premium,Audi-a3,11,2,3
+52,766d06abbb29,2015.0,Audi,a3,A3,2.0T quattro Prestige Sport Pkg,Audi-a3,7,7,2
+53,7cb4454776b7,2015.0,Audi,a3,A3,2.0T quattro Premium Plus,Audi-a3,10,5,1
+54,9dfaeb835626,2016.0,Audi,a3,A3,2.0T quattro Premium Plus,Audi-a3,6,4,6
+55,ab38d376843a,2015.0,Audi,a3,A3,2.0T quattro Premium Plus,Audi-a3,11,3,2
+56,ac17fa7cb0a7,2016.0,Audi,a3,A3,2.0T quattro Premium,Audi-a3,12,3,1
+57,adde7e9bebb9,2015.0,Audi,a3,A3,2.0T quattro Premium Plus,Audi-a3,9,4,3
+58,c53e374fdd72,2015.0,Audi,a3,A3,2.0T quattro Premium,Audi-a3,9,3,4
+59,d47c65912778,2015.0,Audi,a3,A3,2.0T quattro Premium Plus,Audi-a3,12,2,2
+60,1727aa24a99b,2015.0,Audi,q5,Q5,2.0T quattro Premium,Audi-q5,5,4,7
+61,65051cfe0789,2014.0,Audi,q5,Q5,2.0T quattro Premium,Audi-q5,12,1,3
+62,68d293c20e0a,2015.0,Audi,q5,Q5,2.0T quattro Premium Plus,Audi-q5,14,0,2
+63,89e39c70acf0,2014.0,Audi,q5,Q5,2.0T quattro Premium Plus,Audi-q5,12,2,2
+64,9a31ec728211,2013.0,Audi,q5,Q5,2.0T quattro Premium Plus,Audi-q5,11,2,3
+65,9c3ad5995878,2013.0,Audi,q5,Q5,2.0T quattro Premium,Audi-q5,11,1,4
+66,b2fcaaa4d0d4,2014.0,Audi,q5,Q5,3.0 quattro TDI Prestige,Audi-q5,10,3,3
+67,c86b4dcd90f5,2014.0,Audi,q5,Q5,3.0T quattro Prestige,Audi-q5,8,4,4
+68,d0e1e76af411,2012.0,Audi,q5,Q5,2.0T quattro Premium Plus,Audi-q5,7,5,4
+69,d4079904fc83,2014.0,Audi,q5,Q5,2.0T quattro Premium Plus,Audi-q5,5,6,5
+70,f93a4878aedb,2014.0,Audi,q5,Q5,2.0T quattro Premium Plus,Audi-q5,11,2,3
+71,0ca342108368,2015.0,Mercedes-Benz,gla,GLA,GLA 250 4MATIC,Mercedes-Benz-gla,7,4,5
+72,24f0c97836fd,2015.0,Mercedes-Benz,gla,GLA,GLA 250 4MATIC,Mercedes-Benz-gla,10,4,2
+73,4e1303367c23,2015.0,Mercedes-Benz,gla,GLA,GLA250,Mercedes-Benz-gla,9,7,0
+74,5b36192f9471,2015.0,Mercedes-Benz,gla,GLA,GLA250,Mercedes-Benz-gla,9,5,2
+75,630bcc118624,2015.0,Mercedes-Benz,gla,GLA,GLA250 4MATIC,Mercedes-Benz-gla,12,2,2
+76,7e746a96c456,2015.0,Mercedes-Benz,gla,GLA,GLA250,Mercedes-Benz-gla,11,2,3
+77,9b8c086eff4b,2016.0,Mercedes-Benz,gla,GLA,GLA 250 4MATIC,Mercedes-Benz-gla,6,3,7
+78,c24077c3a0e0,2015.0,Mercedes-Benz,gla,GLA,GLA 250,Mercedes-Benz-gla,10,4,2
+79,d493fdbf4e9b,2015.0,Mercedes-Benz,gla,GLA,GLA250 4MATIC,Mercedes-Benz-gla,12,1,3
+80,d568ce1e48a2,2015.0,Mercedes-Benz,gla,GLA,GLA250,Mercedes-Benz-gla,9,5,2
+81,dd47eb7ac4ee,2016.0,Mercedes-Benz,gla,GLA,GLA 250 4MATIC,Mercedes-Benz-gla,10,2,4
+82,36860c885526,2014.0,Mercedes-Benz,glk,GLK,GLK350 w/Premium Pkg,Mercedes-Benz-glk,13,2,1
+83,3fca2dafc9fc,2014.0,Mercedes-Benz,glk,GLK,GLK 350 4MATIC w/Premium Pkg,Mercedes-Benz-glk,10,3,3
+84,419372549627,2013.0,Mercedes-Benz,glk,GLK,GLK350 4MATIC,Mercedes-Benz-glk,8,6,2
+85,4d07a478e267,2014.0,Mercedes-Benz,glk,GLK,GLK350 4MATIC,Mercedes-Benz-glk,9,6,1
+86,614472f70bcd,2014.0,Mercedes-Benz,glk,GLK,GLK350 4MATIC,Mercedes-Benz-glk,9,3,4
+87,7ec4581d0a0f,2014.0,Mercedes-Benz,glk,GLK,GLK 350,Mercedes-Benz-glk,9,2,5
+88,8d46502ea2cc,2013.0,Mercedes-Benz,glk,GLK,GLK350 4MATIC,Mercedes-Benz-glk,10,1,5
+89,a84f5e40e48d,2015.0,Mercedes-Benz,glk,GLK,GLK350,Mercedes-Benz-glk,9,3,4
+90,bb31a3e2b6ec,2013.0,Mercedes-Benz,glk,GLK,GLK 350,Mercedes-Benz-glk,11,4,1
+91,c1de98e11cd8,2014.0,Mercedes-Benz,glk,GLK,GLK 350,Mercedes-Benz-glk,9,4,3
+92,fb1b923dd978,2015.0,Mercedes-Benz,glk,GLK,GLK 350 4MATIC w/ Premium 1 Pkg,Mercedes-Benz-glk,8,6,2
+93,17fe7cf11f5d,2015.0,Mazda,mazda5,Mazda5,Sport,Mazda-mazda5,11,3,2
+94,1c1cd0a47ecf,2014.0,Mazda,mazda5,MAZDA5,Sport,Mazda-mazda5,10,1,5
+95,33a310ea7462,2012.0,Mazda,mazda5,Mazda5,Grand Touring,Mazda-mazda5,11,4,1
+96,6053ed0e3b81,2015.0,Mazda,mazda5,Mazda5,Sport,Mazda-mazda5,12,2,2
+97,619182bcd5da,2015.0,Mazda,mazda5,MAZDA5,Sport,Mazda-mazda5,10,2,4
+98,6f734c23565f,2015.0,Mazda,mazda5,MAZDA5,Sport,Mazda-mazda5,7,7,2
+99,7e40a46c73a1,2015.0,Mazda,mazda5,Mazda5,Sport,Mazda-mazda5,10,2,4
+100,84884df739b0,2014.0,Mazda,mazda5,MAZDA5,Sport,Mazda-mazda5,6,6,4
+101,a8f9c534f544,2014.0,Mazda,mazda5,MAZDA5,Sport,Mazda-mazda5,12,2,2
+102,c6f50d44f141,2015.0,Mazda,mazda5,Mazda5,Sport,Mazda-mazda5,7,2,7
+103,d05bc09d36ad,2014.0,Mazda,mazda5,MAZDA5,Touring,Mazda-mazda5,8,5,3
+104,2b377d14a6f7,2013.0,BMW,x3,X3,xDrive28i,BMW-x3,12,3,1
+105,3d7a1030deeb,2016.0,BMW,x3,X3,xDrive28i,BMW-x3,8,6,2
+106,3fdce9d37478,2013.0,BMW,x3,X3,xDrive28i,BMW-x3,4,4,8
+107,4f7ecdb5142d,2012.0,BMW,x3,X3,xDrive35i,BMW-x3,11,0,5
+108,846faa0eb79f,2014.0,BMW,x3,X3,xDrive35i w/ Premium Pkg,BMW-x3,6,5,5
+109,89908c5dd553,2014.0,BMW,x3,X3,xDrive28i,BMW-x3,8,2,6
+110,a2962aeef47f,2015.0,BMW,x3,X3,sDrive28i,BMW-x3,10,4,2
+111,a56f923399ca,2014.0,BMW,x3,X3,xDrive28i w/Premium Pkg,BMW-x3,11,1,4
+112,afea6fd186d3,2013.0,BMW,x3,X3,xDrive28i,BMW-x3,8,4,4
+113,bde6e2f53ccd,2012.0,BMW,x3,X3,xDrive28i,BMW-x3,9,4,3
+114,e24ee4eccccf,2011.0,BMW,x3,X3,xDrive28i,BMW-x3,8,4,4
+115,f389f263eea1,2014.0,BMW,x3,X3,xDrive28i,BMW-x3,8,6,2
+116,3296b42a1036,2014.0,Nissan,370z,370Z,Coupe,Nissan-370z,10,3,3
+117,51db01f69797,2014.0,Nissan,370z,370Z,Base,Nissan-370z,10,3,3
+118,5b65b2b575f2,2013.0,Nissan,370z,370Z,Touring,Nissan-370z,8,3,5
+119,6ba36af67cb0,2014.0,Nissan,370z,370Z,Roadster,Nissan-370z,9,3,4
+120,6ef47eadf7ea,2015.0,Nissan,370z,370Z,Roadster Touring,Nissan-370z,9,3,4
+121,788e1e49c027,2012.0,Nissan,370z,370Z,Roadster Touring,Nissan-370z,9,4,3
+122,b44091aa62e4,2016.0,Nissan,370z,370Z,Sport,Nissan-370z,11,2,3
+123,b4bcf224f867,2015.0,Nissan,370z,370Z,Roadster Touring,Nissan-370z,14,1,1
+124,c8c5e4499ea9,2015.0,Nissan,370z,370Z,Sport,Nissan-370z,9,4,3
+125,f45933c2069d,2012.0,Nissan,370z,370Z,Roadster Touring,Nissan-370z,9,2,5
+126,1e68eba302f5,2013.0,Honda,pilot,Pilot,EX-L,Honda-pilot,12,2,2
+127,36a616a80cea,2014.0,Honda,pilot,Pilot,EX,Honda-pilot,12,3,1
+128,54ee69d7d5e5,2013.0,Honda,pilot,Pilot,Touring,Honda-pilot,8,3,5
+129,629f8de24454,2013.0,Honda,pilot,Pilot,EX-L,Honda-pilot,6,7,3
+130,7263fcbfae99,2014.0,Honda,pilot,Pilot,LX,Honda-pilot,11,4,1
+131,82d30a8001ee,2011.0,Honda,pilot,Pilot,LX,Honda-pilot,10,2,4
+132,846c39e6197d,2015.0,Honda,pilot,Pilot,SE,Honda-pilot,6,2,8
+133,8c9416066607,2013.0,Honda,pilot,Pilot,EX-L,Honda-pilot,13,0,3
+134,ba0542f7cfce,2016.0,Honda,pilot,Pilot,Touring,Honda-pilot,11,0,5
+135,d00b02fe2548,2013.0,Honda,pilot,Pilot,LX,Honda-pilot,9,3,4
+136,12cee71ab024,2014.0,Mitsubishi,outlander,Outlander,GT W/ Towing Pkg,Mitsubishi-outlander,10,2,4
+137,2d0e1b774464,2014.0,Mitsubishi,outlander,Outlander,SE,Mitsubishi-outlander,10,4,2
+138,31976481ac59,2014.0,Mitsubishi,outlander,Outlander,SE,Mitsubishi-outlander,10,5,1
+139,6b1fb8852b09,2015.0,Mitsubishi,outlander,Outlander,GT,Mitsubishi-outlander,6,2,8
+140,73319df1fc6c,2016.0,Mitsubishi,outlander,Outlander,GT,Mitsubishi-outlander,5,5,6
+141,74f1f434e214,2014.0,Mitsubishi,outlander,Outlander,GT,Mitsubishi-outlander,10,4,2
+142,8cdafb8ea2f6,2014.0,Mitsubishi,outlander,Outlander,GT,Mitsubishi-outlander,10,2,4
+143,de21c6090355,2014.0,Mitsubishi,outlander,Outlander,SE,Mitsubishi-outlander,8,5,3
+144,e6892bf10d31,2016.0,Mitsubishi,outlander,Outlander,GT w/Touring Pkg,Mitsubishi-outlander,10,3,3
+145,f8dc50bb832c,2014.0,Mitsubishi,outlander,Outlander,ES,Mitsubishi-outlander,11,1,4
+146,17a1f1ab0ac3,2014.0,Audi,a5,A5,2.0T quattro Premium,Audi-a5,8,3,5
+147,1c1a505c4e49,2014.0,Audi,a5,A5,2.0T quattro Premium Plus,Audi-a5,12,3,1
+148,3edf4f51b428,2013.0,Audi,a5,A5,2.0T quattro Premium Plus,Audi-a5,5,7,4
+149,4416c77aa458,2014.0,Audi,a5,A5,2.0T quattro Premium Plus,Audi-a5,6,5,5
+150,6a548b4d774e,2015.0,Audi,a5,A5,2.0T quattro Premium Plus,Audi-a5,10,2,4
+151,75bc924cc8c1,2014.0,Audi,a5,A5,2.0T quattro Premium Plus,Audi-a5,13,2,1
+152,c92229529657,2014.0,Audi,a5,A5,2.0T quattro Premium Plus,Audi-a5,7,5,4
+153,dbd00769aee2,2014.0,Audi,a5,A5,2.0T Premium Plus,Audi-a5,14,0,2
+154,f1f241571948,2010.0,Audi,a5,A5,2.0T quattro Prestige w/ Prestige Pkg,Audi-a5,12,1,3
+155,1a02b5de8e8d,2014.0,Subaru,outback,Outback,2.5i,Subaru-outback,11,1,4
+156,1d2814dbd013,2014.0,Subaru,outback,Outback,2.5i Premium,Subaru-outback,12,3,1
+157,4157dbb64e2f,2014.0,Subaru,outback,Outback,2.5i Limited,Subaru-outback,9,2,5
+158,459c9990f7aa,2016.0,Subaru,outback,Outback,2.5i,Subaru-outback,10,5,1
+159,98b497839908,2014.0,Subaru,outback,Outback,2.5i,Subaru-outback,10,4,2
+160,af80b15636e0,2011.0,Subaru,outback,Outback,2.5i Premium,Subaru-outback,13,0,3
+161,cab486976e0c,2013.0,Subaru,outback,Outback,2.5i Limited,Subaru-outback,9,3,4
+162,d897fc52ff78,2015.0,Subaru,outback,Outback,2.5i Premium,Subaru-outback,8,3,5
+163,00322b309335,2013.0,BMW,1-series,1 Series,128i w/ Premium Pkg,BMW-1-series,9,5,2
+164,0dc831fb95b1,2012.0,BMW,1-series,1 Series,135i,BMW-1-series,7,4,5
+165,2ea62c1beee7,2009.0,BMW,1-series,1 Series,135i,BMW-1-series,11,3,2
+166,5b1fa48bb5b1,2013.0,BMW,1-series,1 Series,135i,BMW-1-series,9,5,2
+167,6ff4bbcf5088,2012.0,BMW,1-series,1 Series,135i,BMW-1-series,8,4,4
+168,77fbf2af4072,2013.0,BMW,1-series,1 Series,128i,BMW-1-series,9,3,4
+169,99748e44dcc0,2012.0,BMW,1-series,1 Series,128i,BMW-1-series,10,3,3
+170,bf9932f7aca8,2013.0,BMW,1-series,1 Series,128i,BMW-1-series,8,2,6
+171,e4b6cce2ef0f,2013.0,BMW,1-series,1 Series,128i,BMW-1-series,10,3,3
+172,4002e9825e89,2014.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,10,4,2
+173,40383c0cd9c2,2015.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,13,1,2
+174,6edb8f61fa1c,2014.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,9,4,3
+175,7e8db926a7a5,2015.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,14,0,2
+176,b4e21219cc10,2015.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,8,5,3
+177,d3a717239916,2014.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,10,5,1
+178,d5129c806ea5,2015.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,7,7,2
+179,decb221047cd,2014.0,Nissan,rogue-select,Rogue Select,S,Nissan-rogue-select,8,5,3
+180,13f7992cb83b,2014.0,Nissan,quest,Quest,3.5 SV,Nissan-quest,13,0,3
+181,1b91bcca99a3,2015.0,Nissan,quest,Quest,3.5 SV,Nissan-quest,10,2,4
+182,1db0f9a8ccab,2014.0,Nissan,quest,Quest,3.5 SV,Nissan-quest,10,3,3
+183,252c6ab0d70c,2015.0,Nissan,quest,Quest,3.5 SV,Nissan-quest,12,3,1
+184,5ec8a0260e30,2014.0,Nissan,quest,Quest,3.5 SV,Nissan-quest,8,4,4
+185,ad2f37efea5a,2013.0,Nissan,quest,Quest,3.5 S,Nissan-quest,15,0,1
+186,ae3ee849ed63,2013.0,Nissan,quest,Quest,3.5 S,Nissan-quest,10,2,4
+187,3364e55bac98,2015.0,BMW,4-series,4 Series,428i,BMW-4-series,9,4,3
+188,5fb012d30fd9,2014.0,BMW,4-series,4 Series,435i xDrive,BMW-4-series,12,2,2
+189,6bc6061bd22e,2014.0,BMW,4-series,4 Series,435i w/ M Sport Pkg,BMW-4-series,10,4,2
+190,7e097d195756,2014.0,BMW,4-series,4 Series,435i,BMW-4-series,6,6,4
+191,8d5423cb763c,2016.0,BMW,4-series,4 Series,428i Gran Coupe w/Driver Assistance Pkg,BMW-4-series,9,4,3
+192,b33123d1fd29,2014.0,BMW,4-series,4 Series,428i w/  Sport line package,BMW-4-series,10,3,3
+193,c8e4fad8359b,2014.0,BMW,4-series,4 Series,428i,BMW-4-series,8,4,4
+194,d870445bd412,2014.0,BMW,4-series,4 Series,428i xDrive,BMW-4-series,11,4,1
+195,2d0123a850b0,2013.0,MINI,clubman,Clubman,Cooper,MINI-clubman,13,2,1
+196,4f552e308808,2016.0,MINI,clubman,Clubman,Cooper S,MINI-clubman,11,2,3
+197,75a904cbe432,2013.0,MINI,clubman,Clubman,Cooper S Premium Pkg 2,MINI-clubman,10,3,3
+198,7cdc2676f394,2013.0,MINI,clubman,Clubman,Cooper S,MINI-clubman,9,5,2
+199,b02548876642,2013.0,MINI,clubman,Clubman,Cooper S,MINI-clubman,10,3,3
+200,bf9a32258ef4,2014.0,MINI,clubman,Clubman,Cooper S,MINI-clubman,9,4,3
+201,c35fc45d124c,2013.0,MINI,clubman,Clubman,Cooper,MINI-clubman,11,2,3
