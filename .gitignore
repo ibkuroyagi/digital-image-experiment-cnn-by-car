@@ -3,3 +3,4 @@ train/
 selected_pictures/
 .ipynb_checkpoints
 .vscode
+VGG16_extended_mini_1.h5
