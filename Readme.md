@@ -1,6 +1,6 @@
-windows10 64bit version 1909 (OSビルド 18363.476)
-python 3.7.3
-keras 2.3.1
+* windows10 64bit version 1909 (OSビルド 18363.476)
+* python 3.7.3
+* keras 2.3.1
 
 ### このリポジトリのデータはkaggleの ```carvana-image-masking-challenge``` からデータを取得しています。
 全ての画像データを取得したい場合はkaggleのアカウントを作成し、 ```carvana-image-masking-challenge``` コンペから```metadata.csv, train.zip, test.zip```を取得してください。
@@ -21,8 +21,8 @@ keras 2.3.1
 * ファイル1, ファイル2はselected_picturesディレクトリ作成のためのコードなので、多くの場合は実行をする必要はありません。データの前処理をどのように行っているのかを確認したい方はぜひ実行をしてみて下さい。
 
 
-### picturesディレクトリとは？
-kaggle competitionからダウンロードした車の画像データ(train.zip, test.zip)を一つのディレクトリに合体させたもののことである。
+### picturesディレクトリについて
+kaggle competitionからダウンロードした車の画像データ(train.zip, test.zip)を一つのディレクトリに合体させたもののこと。
 
 ### selected_picturesディレクトリについて
 400クラス分類のモデルを作成するための、大量のデータで学習をする際にのみ用いる。  
@@ -30,6 +30,7 @@ kaggle competitionからダウンロードした車の画像データ(train.zip,
 なお本チュートリアルでは使用していない。
 
 ### mini_picturesディレクトリについて
+データの基本となるディレクトリ。
 基本的に全てのコードはこのディレクトリがあれば実行が可能。  
 小さいデータセットでの学習をするために作成する。  
 このサイズでもCPUでは学習に５～６時間要するので実行には注意が必要である。  
