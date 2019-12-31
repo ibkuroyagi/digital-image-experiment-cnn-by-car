@@ -4,12 +4,8 @@
 
 ### このリポジトリのデータはkaggleの ```carvana-image-masking-challenge``` からデータを取得しています。
 全ての画像データを取得したい場合はkaggleのアカウントを作成し、 ```carvana-image-masking-challenge``` コンペから```metadata.csv, train.zip, test.zip```を取得してください。
-もしkaggleアカウントを持っている、かつ、```carvana-image-masking-challenge``` コンペのLate Submit ボタンを押してあるのなら下記のコマンドでダウンロードできます。
-もちろんkaggleのページからも直接ダウンロードすることも可能です。
 
-```kaggle competitions download carvana-image-masking-challenge -f metadata.csv -w```  
-```kaggle competitions download carvana-image-masking-challenge -f train.zip -w```  
-```kaggle competitions download carvana-image-masking-challenge -f test.zip -w```  
+
 一部のデータで十分であるならば、  
 ```git clone https://github.com/ibukikuroyanagi/digital-image-experiment-cnn-by-car.git ```   
 で問題ありません。  
@@ -18,7 +14,7 @@
 ## 使用にあたって
 * ファイル番号順に実行をしていくことですべてのコードを実行することが可能です。
 * git cloneによってダウンロードされた方は、その時点でファイル3以降のコードから実行することが可能です。
-* ファイル1, ファイル2はselected_picturesディレクトリ作成のためのコードなので、多くの場合は実行をする必要はありません。データの前処理をどのように行っているのかを確認したい方はぜひ実行をしてみて下さい。
+* ファイル1, ファイル2はselected_picturesディレクトリ作成のためのコードなので、データの前処理をどのように行っているのかを確認したい方は実行をしてみて下さい。
 
 macOSで実行する場合は、コードの最初に
 ```os.environ['KMP_DUPLICATE_LIB_OK']='True'```
