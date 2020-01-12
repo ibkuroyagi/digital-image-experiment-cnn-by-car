@@ -10,6 +10,10 @@
 ```git clone https://github.com/ibukikuroyanagi/digital-image-experiment-cnn-by-car.git ```   
 で問題ありません。  
 
+本コードの解説は [僕のブログ](https://ibuki-study.net/keras1) にしています。  
+是非、参考にしてみてしてください！  
+
+
 
 ## 使用にあたって
 * ファイル番号順に実行をしていくことですべてのコードを実行することが可能です。
